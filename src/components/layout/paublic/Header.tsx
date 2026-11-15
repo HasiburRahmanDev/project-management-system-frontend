@@ -4,7 +4,7 @@ import React from "react";
 const routes = [
   { name: "Home", path: "/" },
   { name: "About Us", path: "/about-us" },
-  { name: "Register", path: "/register" },
+  { name: "Login", path: "/login" },
 ];
 
 const Header = () => {
